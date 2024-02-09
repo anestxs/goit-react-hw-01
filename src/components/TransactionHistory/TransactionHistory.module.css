@@ -1,0 +1,21 @@
+table {
+    font-size: 12pt;
+    margin: 5px;
+    width: 600px;
+    margin-left: 50px;
+    background-color: black;
+}
+
+th {
+    text-align: center;
+    background-color: #363535;
+    margin: 10px 0px 5px 0px;
+    color: #ffffff;
+}
+
+td {
+    text-align: left;
+    background-color: #f9f9f9;
+    margin: 5px 0px;
+    padding-left: 30px;
+}
