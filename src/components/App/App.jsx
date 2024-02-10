@@ -1,8 +1,8 @@
-import userData from "../../userData.json";
+import userData from "../../data/userData.json";
 import { Profile } from "../Profile/Profile.jsx";
-import friends from "../../friends.json";
+import friends from "../../data/friends.json";
 import { FriendsList } from "../FriendsList/FriendList.jsx";
-import transaction from "../../Transactions.json";
+import transaction from "../../data/transactions.json";
 import { TransactionHistory } from "../TransactionHistory/TransactionHistory.jsx";
 
 export const App = () => {

@@ -18,4 +18,5 @@ td {
     background-color: #f9f9f9;
     margin: 5px 0px;
     padding-left: 30px;
+    text-transform: capitalize;
 }
